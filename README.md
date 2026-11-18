@@ -6,7 +6,6 @@
 
 </div>
 
-> 🚧 **Work in progress.** The current code release is incomplete. The full implementation and more detailed documentation are on the way. Stay tuned!
 
 ## Overview
 
@@ -37,4 +36,5 @@ ProGFM/
 ## Dependencies
 
 The available scripts use Python, PyTorch, PyTorch Geometric, torch-scatter, NumPy, SciPy, and scikit-learn. The current implementation requires CUDA.
+> 🚧 **Work in progress.** The current code release is incomplete. The full implementation and more detailed documentation are on the way. Stay tuned!
 
