@@ -10,6 +10,10 @@
 
 ## Overview
 
+<p align="center">
+  <img src="ProGFM.png" width="85%" alt="ProGFM framework">
+</p>
+
 ProGFM treats **propagation relationships between edges and feature dimensions** as transferable knowledge units for graph foundation models. By learning a propagation relationship prototype bank from multiple source domains, ProGFM enables adaptive information aggregation on unseen graph domains.
 
 The framework consists of three main components:
